@@ -1,8 +1,8 @@
-- 👋 Oi, sou @Daniel2019
-- 👀 Estou interessado em Programação Back End
-- :escola: Técnico em Desenvolvimento de Sistemas
+## Olá :hand:
+Me chamo Daniel Soares
+****
 
-<!---
-Daniel2019/Daniel2019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Desenvolvedor Back End :computer:
+- Moro em Poá, SP,  Brasil :brazil:
+- Tenho 17 anos;
+- Técnico em Desenvolvimento de Sistemas.
