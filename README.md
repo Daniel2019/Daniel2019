@@ -2,9 +2,11 @@
   Olá :hand: <br>
   Me chamo Daniel Soares
   
+  * Estagiário em Desenvolvendo PHP
   * Desenvolvedor Back End :computer:
   * Moro em Poá, SP,  Brasil
-  * Tenho 18 anos
+  * Tenho 19 anos
+  * Cursando Análise e Desenvolvimento de Sistemas
   * Técnico em Desenvolvimento de Sistemas  
 </div>
 
