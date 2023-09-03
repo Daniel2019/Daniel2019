@@ -7,7 +7,7 @@
   * Moro em Poá, SP,  Brasil
   * Tenho 19 anos
   * Cursando Análise e Desenvolvimento de Sistemas
-  * Formando em Técnico em Desenvolvimento de Sistemas  
+  * Formado em Técnico em Desenvolvimento de Sistemas  
 </div>
 
 <div>
