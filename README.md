@@ -2,10 +2,10 @@
   Olá :hand: <br>
   Me chamo Daniel Soares
   
-  * Atualmente Desenvolvedor Web Junior
-  * Foco como desenvolvedor Back End :computer:
+  * Atualmente Desenvolvedor Full-Stack Junior
+  * Foco como desenvolvedor Full-Stack:computer:
   * Moro em Poá, SP,  Brasil
-  * Tenho 19 anos
+  * Tenho 21 anos
   * Cursando Análise e Desenvolvimento de Sistemas
   * Formado em Técnico em Desenvolvimento de Sistemas  
 </div>
